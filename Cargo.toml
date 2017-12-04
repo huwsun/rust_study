@@ -1,0 +1,7 @@
+[package]
+name = "study"
+version = "0.1.0"
+authors = ["huyang <huwsun@gmail.com>"]
+
+[dependencies]
+chrono = "0.4"
